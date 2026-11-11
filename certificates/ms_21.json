@@ -1,0 +1,1 @@
+{"start":["XyxYY","XyXYxy"],"moves":[["conj",1,"y"],["mul",1,0,1],["conj",1,"Y"],["mul",0,1,-1],["conj",0,"x"],["conj",0,"Y"],["inv",0],["mul",0,1,-1],["inv",0],["mul",0,1,1],["mul",1,0,-1],["inv",0],["mul",0,1,-1],["inv",0],["inv",0]],"end":["x","y"],"claim":"AC-trivial","index":21}
