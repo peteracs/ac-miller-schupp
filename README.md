@@ -74,7 +74,7 @@ trivialization that image is a basis, which a Nielsen reduction takes to
 `<x, y>`. Ties come from a saved search graph per class: a presentation is tied
 when its search reaches a state already reached from the class core.
 
-The search was written in [Rad](https://github.com/peteracs/rad) as a language
+The search was written in [Rad](https://github.com/peteracs/rad-lang) as a language
 test (`projects/dogfood/andrews-curtis`); nothing here needs Rad.
 
 ## Novelty
